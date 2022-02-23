@@ -1,0 +1,506 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By George Jones of Hatton-Garden Holborn, A corner-house, three doors from the Sign of the New Hole in the Wall over against Baldwins-Gardens, near the George; (Student in the Art of Physick and chirurgery for the space of about thirty years) his book of Mighty cures; cures of all sorts, the peoples names, men, women, and children, of all ages, the places where they live: the like not known to be done in this age.</title>
+            <title>Corner-house, three doors from the Sign of the New Hole in the Wall.</title>
+            <author>Jones, George, of Hatton Garden.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47037</idno>
+            <idno type="STC">Wing J941AD</idno>
+            <idno type="STC">ESTC R217061</idno>
+            <idno type="EEBO-CITATION">99828762</idno>
+            <idno type="PROQUEST">99828762</idno>
+            <idno type="VID">33193</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47037)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33193)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1968:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By George Jones of Hatton-Garden Holborn, A corner-house, three doors from the Sign of the New Hole in the Wall over against Baldwins-Gardens, near the George; (Student in the Art of Physick and chirurgery for the space of about thirty years) his book of Mighty cures; cures of all sorts, the peoples names, men, women, and children, of all ages, the places where they live: the like not known to be done in this age.</title>
+                  <title>Corner-house, three doors from the Sign of the New Hole in the Wall.</title>
+                  <author>Jones, George, of Hatton Garden.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and year of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Healing --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:33193:1" rendition="simple:additions"/>
+            <head>BY GEORGE JONES OF Hatton-Garden Holborn, A Corner-houſe, three doors from the Sign of the <hi>New Hole in the Wall,</hi> over againſt <hi>Baldwins-Gardens,</hi> near the <hi>George;</hi> (Student in the Art of Phyſick and Chirurgery for the ſpace of about thirty years)</head>
+            <head type="sub">His Book of <hi>Mighty Cures;</hi> Cures of all ſorts, the Peoples Names, Men, Women, and Children, of all Ages, the Places where they live: the like not known to be done in this Age.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Deſire you will take notice that although it hath pleaſed God to give me the gift of Healing for a time, he does not give the like to every one that practiſeth Phyſick: therefore I would have you be<g ref="char:EOLhyphen"/>ware who you deal with, and take no Phyſick of any but ſuch as are known to do great Cures. I can tell preſently what good can be done for you, and give you ſpeedy help, if there be any to be had: but young Beginners may practiſe on your bodies many years before they can learn to do good. I give my true Judgment to all for nothing: Read over the Cures in this Book which I have done in City and Country; they are your Neighbours round about you, inquire of them from their own mouths, and ſo come to me: you will find many good people among them which dare not tell a lie; but if you will not believe this, you'l certainly ſlight all that God would do for you, and become faithleſs in evrey good work, and ſo live and die in pain and miſery, it may be before half the number of your dayes are ſpent.</p>
+            <pb n="2" facs="tcp:33193:2"/>
+            <p>I confeſs <hi>Paul</hi> may plant, and <hi>Apollo</hi> water, but God giveth increaſe: and I be<g ref="char:EOLhyphen"/>lieve that above fourty thouſand in City and Country are my Witneſſes how God hath followed me with his Bleſſing on my doing Cures.</p>
+            <p>I would not have ſpoken ſo much, but that I ſee ſo many pretenders to Phyſick that never practiſed before, who uſe all the means they can to cry down thoſe who do good, and cry up themſelves, indeavouring to turn Light into Darkneſs, that their dark works may not come to the Light: But I ſhall leave them, and give you notice that I practiſe, Mondays, Tueſdays, &amp; Wedneſdays at my Houſe in <hi>Hatton-Garden;</hi> and the other three dayes of the week at my Houſe in <hi>Moorfields,</hi> in the upper Fields as you go into <hi>Crown-Alley</hi> on the left hand, two Poſts before my Door with two Golden Balls on the tops of them; and do intend (God willing) to practiſe there all the year, and from year to year.</p>
+            <p>Firſt, I will ſet down ſome of the Vertues of my <hi>Electuary:</hi> and after that may eight ſeveral ſorts of <hi>Balſams,</hi> with their Vertues.</p>
+            <list>
+               <item>1. My <hi>Balſam of Balſams,</hi> very well known in City and Country for its won<g ref="char:EOLhyphen"/>derful Vertues.</item>
+               <item>2. A <hi>Balſam</hi> for the <hi>Leproſie.</hi>
+               </item>
+               <item>3. A <hi>Balſam</hi> for the <hi>Rickets.</hi>
+               </item>
+               <item>4. A <hi>Balſam</hi> for <hi>Deafneſs.</hi>
+               </item>
+               <item>5. A <hi>Balſam,</hi> for old Ulcered <hi>Gonorrhea.</hi>
+               </item>
+               <item>6. A <hi>Balſam</hi> for the <hi>Ptiſick</hi> and <hi>Cough.</hi>
+               </item>
+               <item>7. A <hi>Balſam</hi> of twenty ſhillings the ounce.</item>
+               <item>8. A <hi>Balſam</hi> for a weak Back.</item>
+               <item>9. The next is the ſigns of the <hi>Scurvy,</hi> and the Vertues of my <hi>Friendly Pill.</hi>
+               </item>
+               <item>10. And after that all ſorts of <hi>Great Cures,</hi> both of young and old, which I have cured; inquire of them.</item>
+               <item>11. Then a Diet for Children when they breed <hi>Teeth.</hi>
+               </item>
+               <item>12. A word to Men how to <hi>preſerve Health.</hi>
+               </item>
+               <item>13. Next how to make the <hi>everlaſting Cordial Drink, Water,</hi> or <hi>Spirits,</hi> which the Cheats have cryed up to Cure all Diſeaſes.</item>
+            </list>
+            <p>Their Vertues I ſhall ſet down in order, and Directions how to apply moſt of them.</p>
+            <p>FIrſt, the ELECTUARY, of two ſhillings the ounce, which I have made better then ever I made before, and it will work much better.</p>
+            <p>A Man or a Woman muſt take as much as a ſmall Nut at night going to bed, and ſo much in the morning faſting, and you may eat and drink what you pleaſe, and go where you pleaſe, keeping your ſelf temperate. It hath a pleaſant taſte, and you may eat it as you eat Bread, or roul it into Pills, or diſſolve it in a little Ale, or any thing what you pleaſe any way, ſo it goeth into the Body, it will do
+<pb n="3" facs="tcp:33193:2"/>its work: and you may give the ſame quantity to any above ſixteen years: and for thoſe which are between eight and ſixteen, you may give them half the quantity: and for Children under eight, give according to their age and ſtrength, more or leſs, according as you find it. It gives three or four Stools a day; and, as you have occaſion, continue taking it tell you are well. You can hardly err in giving it, it is ſo ſafe, and may be taken any time of the year.</p>
+            <p>It doth (to the beſt of my knowledg) Infallibly cure all manner of <hi>Convulſion-fits, Falling-ſickneſs, Fits of the Mother,</hi> and all ſorts of Fits of that kind, be what they will; it doth comfort and chear the Spirits within an hours time after you have taken it.</p>
+            <p>It will cure all manner of <hi>Sore</hi> and <hi>Rhumy Eyes</hi> though never ſo bad; it will help all ſorts of Melancholy; all <hi>Swellings</hi> in the Face, Lips and Noſe; <hi>Expelleth Wind</hi> upward and downward, ſtrengthens both Head and Stomach, and cleanſeth them, as alſo the Kidneys, Reins, and Bladder, of tough ſlimy Humours, which Nature is not able to carry away; and all ſharp Humours, which breed Cancers in the Mouth, and at the root of the Tongue and Throat; which you may perceive when they are breeding, if you draw forth the Tongue a little ſideways, you may ſee it will be a little raw on one ſide or both, near the Throat; in ſuch the whole maſs of Blood is corrupted, and many dy thereof. And becauſe this Diſtemper moſt commonly breedeth without pain, People do not mind it till it begins to be painful, and then moſt of them are paſt help. It is cauſed by a ſharp humor that diſtilleth down from the Brain, and this my <hi>Electuary</hi> carrieth off all ſuch ſharp and mixed humours which breed this Diſtemper; and there is not any thing in the World like it: For it is continually drawing off all tough ſlimy Humours from all parts of the whole Body by its gentle and mild operation; for if you eat as much of it as a ſmall hazel Nut in the morning faſting, before you go forth about your buſineſs, you will ſeldom hear any more of it till ſix or ſeven hours after, and then it may give you two or three ſtools, and not gripe nor diſtemper you all this while; and if you take the like quantity when you go to bed, it will do the like in the morning. And note, that whatſoever Humour offendeth, it brings it off; as in ſome, it bringeth away green Choler, in another black Choler, and in ano<g ref="char:EOLhyphen"/>ther yellow Choler, and in ſome thin watry Humors mixed with yellow and black, or green, according as they are gendred in the Body: And it is ſuch a friend to Nature, that they joyn hand in hand to drive all theſe ſharp and mixt Humours out of the Body. Nature rejoyceth when it is received into the Body, as you may ſee by the Party that taketh it, who will be more chearful and lightſom by far than at any other time. It doth correct the ſharpneſs of all tough ſlimy Humours, and draweth them back out of the Veins and Arteries to the Stomach, and ſends them down through the Bowels, and ſo by that means leaveth not a ſoul corner in the body unſwept. It takes away the <hi>Scurvy</hi> out of the body both root and branch, if it be not got into the Bones or Joynts; <hi>Dropſy</hi> and all other Diſtem<g ref="char:EOLhyphen"/>pers that joyn with it. And Reaſon may tell you that if it draweth away all this vicious matter out of the Veins and Arteries, it muſt free the Liver and Spleen of all ſtoppages, and by that means helps the <hi>Fits of the Mother,</hi> and cleanſeth the whole maſs of Blood to the purpoſe, and by that means helpeth the <hi>Gonorrhea,</hi>
+               <pb n="4" facs="tcp:33193:3"/>running of the Reins, and all waſting Conſumption of the Reins and Kidnies, which you may know by ſoulneſs and thickneſs of your Water after it hath ſtood a while; it dryeth all moſt and ſharp venerial Diſtempers, and reſtoreth to the for<g ref="char:EOLhyphen"/>mer ſtrength; it doth ſo much cleanſe the Blood of all Melancholly, that in young people it charges the colour of the black and ſwarthy skin, and taketh away all Morphew off the Face, or any other parts of the Body, when no other means will do any good. It is good for them that are well to take an ounce or two of it Spring and Fall; for it will not ſuffer any foul or noyſom Humour to breed in the Bo<g ref="char:EOLhyphen"/>dy: and if there be any already gendred in the Body, it will take it away. It doth draw away all thick ſlimy Humors out of the Veins and Arteries, both Reins, Bladder, and Ureters; cleanſeth the Spermatick Veſſels of all corrupt Seed and Matter, and makes the Body lively and fit for Generation, and by that means helpeth Barrenneſs, and prevents Miſcarrying. I never heard of any Woman that was fit to bear a Child that had taken of it long, but ſhe ſoon Conceived: It doth prevent the growing Stone in the Kidnies, Reins, and Bladder; It will help the ſwell'd Bellies in Children: It alſo helps Nurſes that have bad Milk, and will prove beneficial for her ſelf and Child; it doth help the <hi>Wind Cholick,</hi> as alſo mazineſs or diſſineſs in the Head, and taketh away all ſtinking Vapors which over<g ref="char:EOLhyphen"/>whelm the Brain: It is good for ſuch as are ſubject to be coſtive, or bound, to have ſome of it alwayes by them; for it will be a merry companion when they take it, and give them their deſire. It comfortably cleanſes the Body after the ſmall Pox and Meaſels, and carrieth off all the dregs and Poyſon out of the Blood, which the Diſtemper hath left behind; it doth bravely cleanſe the bodies of Women after Child-bearing; It prevents miſcarriage in Women with Child, being taken three or four times a week, and alſo maketh barren Women fruitful: It helps the Con<g ref="char:EOLhyphen"/>ſumption of the Kidnies and Reins; Which is a Diſtemper more People die of, then of any other. Moſt that have this Diſtemper have a foul diſorderly Water, with pain in the Back in moſt, and ſome will have a greaſy Cloud on the top of their Water, after it hath ſtood a while. And I give you notice that violent Purges cannot do any ſuch Cures, becauſe they go ſpeedily through the Body and leave the Diſtemper behind, and make the Body weak to little or no purpoſe: but this my <hi>Electuary</hi> never maketh you weak, nor hinders buſineſs, though you take of it a month or two together. It is gently drawing away night and day, and wea<g ref="char:EOLhyphen"/>kens not the Body. I ſell it for two ſhillings the ounce, and that ſerves a Man or Woman ten or twelve times taking. It hath helpt thouſands of the <hi>Gonorrhea.</hi> The Cheats have counterfeited it very much: ſome by the name of <hi>Cordial Wa<g ref="char:EOLhyphen"/>ters,</hi> or <hi>Spirits;</hi> ſome in one way, and ſome in another, and have with their delud<g ref="char:EOLhyphen"/>ing Tongus cheated many.</p>
+            <p>It helpt Mr. <hi>Withers</hi> of <hi>Hamerſmith</hi> of Melancholly, who was ſo bad therewith that he could not go out of his Chamber about any buſineſs; and a few ounces of it did the work; you have your directions how to take it at the beginning. It will Cure the <hi>Jaundice,</hi> I have experienced it ſeveral times.</p>
+            <p>I have often made uſe of it to fetch <hi>Mercury</hi> out of the Body; And becauſe I would be ſure to prove the Truth of it, I have made them go to ſtool in any Veſſel of Silver, and if there be <hi>Mercury</hi> in the Body, their Ordour will turn the Silver of a black blew colour, and ſo netim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s mixed with yellow: and if there be no <hi>Mer<g ref="char:EOLhyphen"/>cury</hi>
+               <pb n="5" facs="tcp:33193:3"/>in the Body, there will not be any alteration of colour in the Silver. This I have proved to my ſatisfaction.</p>
+            <p>THe next thing I will ſet down is, ſome of the Vertues of my <hi>BALSAM of BALSAMS,</hi> being the beſt that ever was found out in the World, for all outward and inward Diſeaſes.</p>
+            <p>I ſell it for one ſhilling the ounce; and they that take a pound together, have it for twelve ſhillings, or half a pound after the ſame rate.</p>
+            <p>And now I will give you your Directions in ſhort. Pray note that whatſoe<g ref="char:EOLhyphen"/>ver diſtemper you take it inwardly for, the quantity of a ſmall hazel Nut is enough for a Man or a Woman; roul it in ſome powder of Liquoris and ſo ſwallow it down with a draught of Ale or Beer, or what you pleaſe laſt at night going to bed, and in the morning faſting as hot as you can drink it.</p>
+            <p n="1">1. And for all manner of <hi>Pains, Aches,</hi> and <hi>Swellings;</hi> It muſt be chaft well in with the heat of the Fire, every night going to bed, and a peice of thin Bladder laid thereon to keep it ſoaking in; only you muſt not rub it in to the ſmall of the back, for fear of hurting the Reins.</p>
+            <p n="2">2. For <hi>all manner of Sores,</hi> new and old, you muſt apply it as a plaiſter morning and evening; let it be laid on a linen rag, or a piece of thin Lether: it will make and old Sore run faſter then it did before for a little time, till the Humours have emptied themſelves, and then it will begin to heal. I told you in my laſt Book of one <hi>Piry</hi> and one <hi>Brlin</hi> which did counterfeit it and my <hi>Electuary, ull</hi> &amp; I am now informed of many more ſuch wicked People: but if you have it at the places ſet down in this Book, you cannot be cheated.</p>
+            <p n="3">3. It doth help <hi>Tetter, Ring Worm, Shingles,</hi> or any ſort of Worms in the Face, Noſe, Mouth, Teeth or Gums, by anointing the part grieved when you go to bed, and as often as you pleaſe.</p>
+            <p n="4">4. It helpeth the <hi>Toothach,</hi> and <hi>faſtens looſe Teeth,</hi> and muſt be uſed as a plaiſter on the Tooth and Gum that aketh; and ſo faſt as the Rhume waſheth it away, put on another, till the pain is gone; which is moſt commonly in leſs then a quarter of an hour. To faſten the looſe Tooth, apply it as a plaiſter to the Tooth and Gum, and were the Plaiſter all night: do ſo till you are well.</p>
+            <p n="5">5. It will take a way the <hi>Scurvy</hi> out of the Mouth, if you anoint the Gums with it two or three times a day.</p>
+            <p n="6">6. For <hi>Soreneſs in the Mouth, Throat and Breſt,</hi> take as much as a ſmall Nut every night when you go to bed, and in the morning faſting.</p>
+            <p n="7">7. For the <hi>Headach,</hi> anoint all over where the pain is, and rub ſome up into your Noſtrils; do ſo every night going to bed, and as often as you pleaſe, till the pain is gone.</p>
+            <p n="8">8. For <hi>Staying the Bleeiding at Noſe,</hi> preſently put ſome of it into that Noſtril with the end of your Finger, and hold it on cloſe to the Griſel of the Noſe in that ſide that bleedeth, where the Vein is broken, and it helpeth preſently.</p>
+            <p n="9">9. For <hi>Foul Teeth<g ref="char:punc">▪</g>
+               </hi> waſh them morning and evening with a little white Wine, and ſo ſoon as you have waſht them, anoint the Teeth and Gums with the <hi>Bal<g ref="char:EOLhyphen"/>ſam,</hi> and it will take away the Diſtemper.</p>
+            <p n="10">
+               <pb n="6" facs="tcp:33193:4"/>10. For <hi>Conſumption and Cough, Running of the Reins, Gonorrhea, weakneſs and waſting in the Back, the heat and waſting Kidnies and Reins.</hi> This kind of Conſumption or waſt of the Reins and Kidnies is very dangerous, and you may know it by a thin Cloud on the top of the Urin after it hath ſtood a while, or a bricky ſubſtance in the botom or ſides of the Pot, or a continual pain in the Back, or a foul Water at ſome times, and clear at other times; when you perceive theſe ſymptoms, take as much as a ſmall Nut of this <hi>Balſam</hi> morning &amp; evening, and roul it up in a little pouder of Liquoris, or any other thing or things you can beſt take it in, and cleanſe your Body a little now and then with my <hi>Electuary,</hi> and you may be helpt of all theſe Diſtempers, if you are not too far ſpent before you begin.</p>
+            <p n="11">11. For the <hi>Cramp,</hi> rub it well in to the parts grieved when the fit is on you, and it helpeth preſently.</p>
+            <p n="12">12. It much helps thoſe which have not their breath freely through their No<g ref="char:EOLhyphen"/>ſtrils, by rubbing up a little into both Noſtrils with the end of our finger every night going to bed, or at any other time.</p>
+            <p n="13">13. And if you will help the <hi>ſhrinking Sinews,</hi> you muſt wear it with a piece of thin Bladder on the part grieved; and as it drieth in, renew it, and chaſe it well in with the heat of the fire. It cured the Wife of <hi>Robert Auſtin</hi> of <hi>Hitchin</hi> in <hi>Hartfordſhire</hi> of a lame Leg with ſhrunk Sinews, who could not ſet her foot to the ground, nor get help in twenty years, and it made her as well as ever ſhe was in her life.</p>
+            <p n="14">14. For a <hi>ſtinking-breath from the Stomach,</hi> take as much as a ſmall Nut every night going to bed, till you find your ſelf well; and when y ou would not have any to ſmell your Breath, rub a little of it up your Noſtrils with your fingers end.</p>
+            <p n="15">15. The <hi>Itch, and all manner of Scabs;</hi> anoint the part grieved, and in a few times doing, it will take the diſtemper away.</p>
+            <p n="16">16. For the <hi>Worms,</hi> you muſt chafe it well in to the Stomach and Belly with the heat of the fire, for three or four nights together, and lay a double Linen-Cloth thereon warm, and ſo wear it to aſſwage the hard Bellies of Children. You muſt do as aforeſaid: it doth ſometimes gently purge, if the body be foul.</p>
+            <p n="17">17. For <hi>Pains in the Stomach, Sides, Belly, and Back,</hi> uſe it as aforeſaid.</p>
+            <p n="18">18. <hi>Piles and Hemorrhoids;</hi> anoint the part grieved every night going to bed, and at any other time.</p>
+            <p n="19">19. <hi>Pains in the bottoms of the Feet, Toes, Ankles,</hi> and thoſe which have <hi>weak Ankles,</hi> wear it with a piece of thin Bladder.</p>
+            <p n="20">20. It will <hi>cure a new wound</hi> with a few dreſſings, though the Member be cut three parts off; It will help a man run through a Leg or Arm without any Tent; apply it plentifully about the Member grieved, and dreſs it twice aday.</p>
+            <p n="21">21. For <hi>All ſorts of old Sores,</hi> apply it as a Plaiſter morning and evening; it will make the Sore run more at the firſt then it did before, till the Humours have emptied themſelves, and it will bring out the skale of rotten Bones; after that it will run but little, and heal apace.</p>
+            <p n="22">22. It will diſſolve and cure <hi>hard knobs</hi> that breed in the Necks of Boyes and Girls.</p>
+            <p n="23">23. For the <hi>Red Pimples in the Face,</hi> anoint every night going to Bed.</p>
+            <p n="24">
+               <pb n="7" facs="tcp:33193:4"/>24. It will help any <hi>ſharp briny Humour</hi> that breaketh out on any part of the Body, by anointing the part grieved morning and evening.</p>
+            <p n="25">25. For the <hi>Palſie;</hi> it did help Mr. <hi>Bailif</hi> a Scrivener in <hi>Chippingham</hi> in Wilt-Shire of the <hi>ſhaking-Palſie,</hi> by applying it to the wriſts for three or four dayes; Inſomuch that ſome Gentlemen of the Country thereabouts would not believe till they had ſeen, but ſent for him, and me alſo; and when they ſaw that he could lift a Glaſs of Beer to his Mouth without ſpilling, they believed, becauſe they knew he had not any ſuch uſe of his hands of a long time before: However it hath done greater Cures ſince; for inſtance one Mr. <hi>Gregory Coe,</hi> living on the <hi>Bank-ſide</hi> near the <hi>Bear-Garden</hi> in <hi>Southwark,</hi> of the <hi>Palſie;</hi> who had not the uſe of his hands to cut his meat for above three years, being near fourſcore years of age, and by the means of this my <hi>Balſam of Balſams</hi> he ſoon had good uſe of his hands: it is four years ſince I cured him, and he continueth very well to this day. It will not fail doing good for the Palſie.</p>
+            <p n="26">26. It will take away all <hi>pains</hi> from the <hi>Shoulders, Sides, Arms, Hands</hi> and <hi>Feet.</hi>
+            </p>
+            <p n="27">27. It helpeth the <hi>Cancer,</hi> or any other <hi>Sore</hi> or <hi>Swelling</hi> in the Breſts of Wo<g ref="char:EOLhyphen"/>men.</p>
+            <p>It did ſave and help the Wife of Mr. <hi>Richard Yokney</hi> of <hi>Walminſter</hi> in <hi>Wiltſhire,</hi> when ſhe could not be delivered of her Child by any other means, and ſo ſoon as the Midwife had applyed this my <hi>Balſam,</hi> ſhe was delivered of a live Child; and many more I might mention, and they all did well.</p>
+            <p n="28">28. For the <hi>Fleſhy Rupture,</hi> apply it to the part grieved as you will, ſo you keep it on, it will Cure.</p>
+            <p n="29">29. It helpeth thoſe whoſe Limbs are waſting, and their fleſh withering away, by taking of it inwardly, as you are directed at the beginning.</p>
+            <p n="30">30. For the <hi>Fiſtula in the Hip,</hi> or any other part of the Body, it helpeth when no other means will do: you muſt anoint the part grieved twice a day.</p>
+            <p n="31">31. It giveth ſuch preſent eaſe for all <hi>Burnings and Scaldings,</hi> that ſo ſoon as laid to the part grieved, the pain is gone, and in a few dreſſings maketh a Cure.</p>
+            <p n="32">32. For <hi>Surfeits, want of Appetite, want of quiet ſleep,</hi> or <hi>any ſudden Diſtemper,</hi> take as much as a ſmall Nut going to bed, and roul it up in any thing you can beſt take it in.</p>
+            <p n="33">33. It will cure all manner of <hi>Squats, Bruiſes, Sprains in the Back,</hi> or any part of the Body; and thoſe that get Strains with over-lifting.</p>
+            <p n="34">34. How many would give hundreds of pounds they were free from the <hi>Pits and Scars of the ſmall Pox,</hi> and there is no Cure; therefore I would adviſe all which have not yet had the <hi>ſmall Pox,</hi> and Men for their Children to have of this my <hi>Balſam of Balſams</hi> from my own hand, and keep in a readineſs; and when the Scabs of the <hi>Small Pox</hi> begin to be dry, anoint them with the <hi>Balſam,</hi> and they will all ſheal off; you may do ſo once a day for three or four dayes, and there will not be any ſign where they were; but they muſt not pick them.</p>
+            <p>All that I have ſaid of my <hi>Balſam of Balſams</hi> I have truly proved.</p>
+            <p n="35">35. For ſuch old Men and Women whoſe Blood is grown cold and chilly, and ſuch as are through Conſumption of any other means weakned, and have loſt their
+<pb n="8" facs="tcp:33193:5"/>Appetite; let them take as much as a ſmall Nut of it going to bed now and then, and they will find more warmth and comfort therein, then can be thought. You have the price at the beginning, one ſhilling the ounce.</p>
+            <p>THe <hi>SECOND BALSAM</hi> is for the <hi>Leproſie</hi> and <hi>Scurvy</hi> mixed together, and ſetled in the skin in great white and red Scurvy Bloches on the Elbows and Knees, and ſometimes over all the Body: it is five ſhillings the ounce, and moſt com<g ref="char:EOLhyphen"/>monly one ounce or two doth the Cure, with a little inward means: you muſt a<g ref="char:EOLhyphen"/>noint the parts grieved with a little of it every night going to bed for two or three nights, and then forbear three dayes, and ſee where it doth appear again, and then do as aforeſaid till you are well.</p>
+            <p>THe <hi>THIRD BALSAM</hi> is for the <hi>Rickets;</hi> it infallibly cures, if they can have any ſtrength to ſtand, and it hath cured many that had not any ſtrength at all. For inſtance one, the Child of Mr. <hi>John Sarret</hi> at the upper end of <hi>Sea-Alley</hi> in <hi>Kingsſtreet</hi> in <hi>Weſtminſter,</hi> being pin'd away with a <hi>Conſumption</hi> and <hi>Rickets</hi> to the bare Skin and Bones, being above two years of age, and could not have any ſtrength to ſtand; however, through Gods Bleſſing with the means, he is grown as brave a Boy as any about <hi>London.</hi>
+            </p>
+            <p>I ſell the <hi>Balſam</hi> for one ſhilling four pence the ounce; and moſt commonly four or five ounces doth the Cure: you have your directions with it.</p>
+            <p>THe <hi>FOURTH BALSAM</hi> is for <hi>Deafneſs:</hi> I ſell it two ſhillings ſix pence the ounce, with directions. It cured Mr. <hi>Chearſly</hi> in <hi>Brick-Lane</hi> in <hi>Oldſtreet,</hi> being near fourſcore years of age, who had been quite Deaf about forty years, and I think about four or ſix ounces cured him, and he heareth as well as any.</p>
+            <p>THe <hi>FIFTH BALSAM</hi> is for <hi>Old Ulcerated Gonorrhea.</hi> After the Body is well cleanſed it doth ſtrengthen the whole Body, the Kidnies, Reins, Bladder and Ureters, ſtrengthens the Spermatick Veſſels, and thickens the Seeds, and makes it good; it cheareth the Spirits, and cauſes a freſh lively colour in the Face; it is a little reſtringent. I ſell it for five ſhillings the ounce. You muſt take as much as a ſmall hazel Nut every night going to bed, and in the morning faſting, and drink a draught of Sack, or what you like beſt, after it; do ſo till you have taken an ounce or two.</p>
+            <p>THe <hi>SIXTH BALSAM</hi> is for the <hi>Ptiſick, Cough, ſtoppage of the Breaſt</hi> and <hi>Pipes;</hi> take as much as a ſmall Nut every night going to bed, and every morning faſting, and drink a draught of that you like beſt preſently after as hot as you can drink it.</p>
+            <pb n="9" facs="tcp:33193:5"/>
+            <p>THe <hi>SEVENTH BALSAM</hi> is twenty ſhillings the ounce; with direction for the taking it. It doth cure and help as followeth.</p>
+            <list>
+               <item>1. Firſt; <hi>Sowr Belches.</hi>
+               </item>
+               <item>2. The <hi>Obſtruction of the Liver and Spleen.</hi>
+               </item>
+               <item>3. <hi>Cauſeth a good Appetite.</hi>
+               </item>
+               <item>4. <hi>Agues and Feavers of all ſorts.</hi>
+               </item>
+               <item>5. Preſent help for <hi>Vomiting.</hi>
+               </item>
+               <item>6. Preſent eaſe for the <hi>griping Plague in the Guts;</hi> and in a few times taking, maketh a Cure.</item>
+               <item>7. The <hi>Wind Cholick, Stitches, and pains in the Sides.</hi>
+               </item>
+               <item>8. The <hi>Strangury,</hi> and <hi>pains in the Bladder,</hi> and taketh away the <hi>ſharpneſs of Urine.</hi>
+               </item>
+               <item>9. <hi>Bleeding by Urine or Stool.</hi>
+               </item>
+               <item>10. <hi>Yellow and black Jaundice.</hi>
+               </item>
+               <item>11. <hi>Mother, and Spleen.</hi>
+               </item>
+               <item>12. <hi>All running pains in the Joynts.</hi>
+               </item>
+               <item>13. It bringeth away all <hi>Sand</hi> and <hi>Gravel</hi> out of <hi>Kidneys</hi> and <hi>Reins</hi> without pain, and Stones as big as Peaſe.</item>
+               <item>14. All manner of <hi>Pains in the Head.</hi>
+               </item>
+               <item>15. It doth prevent <hi>Miſcarriage</hi> in ſuch Women which are ſubject to it, and doth ſave the lives of many Women and Children; and prevents many and long tedious fits of Sickneſs, and many times Death it ſelf, which doth attend moſt Women after Miſcarrying. It helpt Mr. <hi>Richard Bower</hi> at the ſign of the Wheat<g ref="char:EOLhyphen"/>ſheaf in <hi>Jarmanſtreet, Weſtminſter;</hi> there came a Stone from him firſt, and preſently after that he made much water, and ſo the great Stone diſſolved to Sand and Gravel, and came from him with much eaſe for the ſpace of eight or nine dayes, to the quantity of about half a pint of Sand and Gravel.</item>
+               <item>16. It giveth preſent eaſe and comfort to <hi>a diſquiet mind,</hi> and <hi>wandering diſ<g ref="char:EOLhyphen"/>pairing thoughts.</hi>
+               </item>
+               <item>17. It ſtrengthens the <hi>Memory</hi> exceedingly, and ſometimes recovereth the <hi>Senſes loſt.</hi>
+               </item>
+               <item>18. It <hi>drives out the Small-Pox,</hi> and <hi>Meaſels at once taking,</hi> and in two or three times taking maketh a Cure.</item>
+               <item>19. It <hi>drieth up all manner of Rhume,</hi> though never ſo ſharp; ſtrengtheneth the Stomach, and purgeth Wind downwards.</item>
+               <item>20. It doth <hi>help and dry up all ſharp moiſt Humours of the Womb,</hi> which hin<g ref="char:EOLhyphen"/>der Conception.</item>
+               <item>21. It helpeth <hi>Vapors,</hi> that aſcend from the Mother and Spleen to the Head, which make ſome Women as if they had loſt part of their Senſes.</item>
+               <item>22. It taketh away all <hi>Swiming in the Head,</hi> and <hi>Swooning-fits.</hi>
+               </item>
+               <item>23. It <hi>helpeth the Dropſy, Cough</hi> and <hi>Conſumpſion,</hi> if they are not too far ſpent.</item>
+            </list>
+            <p>I would not have you think it dear, being twenty ſhillings the ounce; for any one may have a ſhillings worth, and as they like, may have more, if that doth not the Cure.</p>
+            <pb n="10" facs="tcp:33193:6"/>
+            <p>THe <hi>EIGHTH BALSAM</hi> is for <hi>healing and ſtrengthening the Back, and Spermatick Veſſels, and thickening the Seed,</hi> after your Blood is well cleanſ<g ref="char:EOLhyphen"/>ed with my <hi>Cordial Pill:</hi> you muſt take as much as a ſmall Nut of it morning and evening, and hinder no buſineſs: and you that have weak Backs will ſoon find much ſtrength. The price is two ſhillings the ounce, you may take of it till you are well, for it will not much hurt your Purſe.</p>
+            <p>MY friendly Pill cureth the <hi>Scurvy,</hi> when it is grown to that height that it makes many People fear they have got a worſe Diſtemper, and I think that can hardly be: for it will cauſe great pains in the Head, and ſometimes prick<g ref="char:EOLhyphen"/>ing pains in the Noſe, and much dulneſs, and heavienſs of body, ſome will have pains in the Shoulders: in others, pains in the Shin-bones, and ſome pains in the Joynts; and in others, pains all over, with foulneſs of Stomach, Tongue, and Teeth, and loſs of Appetite: pains in the Back, and Bladder, ſharpneſs and heat in making Water, and ſtoppage like the reliques of an old <hi>Gonorrhea,</hi> which was not well cured, or like thoſe which have taken <hi>Mercury</hi> ill prepared, that cannot work it ſelf out of the Body; ſome will have breakings out, or hard knobs in the Head, others ſwellings in the Groin, or breakings out there-about; ſome will have pains and ſwellings of the Joints of their Hands, others in Legs and Thighs, others little ſwellings in the Belly and Stomach; ſome will have Hoarſneſs with ſore Throat and Mouth, and ſwelled Gums; others will have hard red knobs in the Face, ſome Scurvy Briny Humors behind their Ears, ſome little Pimples about the Body, others bad Sleep, with confuſed Dreams; ſome will be tyery, faint and weak, like the Green-ſickneſs; ſome will have pains now and then between the Shoul<g ref="char:EOLhyphen"/>ders and Elbows; and ſome will be only dizzy in the Head: their Water will alter according to what they eat and drink; but moſt commonly in young Men it will be high coloured, and thick at the bottom when it hath ſtood a while; in ſome it will be yellowiſh, and make the Glaſs it ſtandeth in of an unwholſome greaſie colour; and after a Man or Woman hath had it ten or twelve years, they ſeldom make a good Water, and as ſeldom enjoy any perfect Health; ſometimes they think they have one Diſeaſe, and ſometimes another; they are often ſeeking for help, yet get but little. The Urine of Women that have this Diſeaſe, in ſome it will be of a ſad colour, but in moſt it will be pale or greeniſh, with a whitiſh ſet<g ref="char:EOLhyphen"/>ling at the bottom, when it hath ſtood a while: ſome grow heavy-headed, and when they have had it ſome years, they grow Melancholy, and enjoy nothing: ſome it bringeth into a Dropſy and Conſumption, and when theſe three Diſtem<g ref="char:EOLhyphen"/>pers meet together in the Body of Man or Woman, they ſeldom part till Death.</p>
+            <p>This Pill helpeth all theſe Symptoms aforeſaid, though it is gotten into the Mar<g ref="char:EOLhyphen"/>row of the Bones: For the <hi>Scurvy</hi> will get into the Bones the ſooneſt of any Diſtem<g ref="char:EOLhyphen"/>per.</p>
+            <p>It will cure the <hi>Gonorrhea,</hi> and ſharpneſs and ſtoppage of Urine, and <hi>all manner of Venereal Diſeaſes,</hi> from the greateſt to the ſmalleſt, although they have had it
+<pb n="11" facs="tcp:33193:6" rendition="simple:additions"/>twenty years; I ſay, <hi>all manner of Venereal Diſtempers;</hi> and the pain and killing <hi>Conſumption of the Kidneys,</hi> which is a very dangerous waſte: <hi>Ulcers in the Kidneys and Bladder,</hi> and <hi>Cancers</hi> and <hi>Ulcers</hi> in the Womb; all ſorts of <hi>Worms</hi> that breed in the Stomach and Maw, and the other <hi>ſmall Worms:</hi> it moſt commonly cauſeth a good Appetite to ones Meat at the firſt taking; and cauſeth as good ſleep as a Man can deſire, and cheareth the Spirits very much: it doth preſently help and carry off all <hi>Crudities,</hi> and ſwellings form the Stomach and Belly, Leggs, and Thighs: and is the preſenteſt help that I know in the World for the <hi>Dropſy:</hi> it doth help <hi>Ulcers in the Throat,</hi> to admiration: thoſe which are ſick with eating, or drinking, it doth help at once taking: it taketh <hi>away all pains out of the Bones,</hi> when no other means will do it; and for any of the aforeſaid Diſtempers, the Pill being taken at the firſt beginning, once taking will cure, but if the <hi>Scurvy</hi> be old and ſtubborn, it will require more: and if you find the firſt taking have not finiſhed the cure, take one Doſe every third night going to Bed, till you have taken four or five times. Now I would have you take notice of the rarity of theſe Pills, they are in bigneſs of a Pins Head, and any Man or Woman may take twenty and put them into a Spoon with a little Ale, or Beer, and ſwallow them all at once, at night going to Bed, or any way you can beſt take them, for they are very eaſie to take; then you ſhall ſee the rarity of this little merry Bed fellow. In the firſt place you will have a comfortable nights reſt, with a little breathing ſweat all night, but not ſo much as to make your Linnen wet, and in the morning the ſleep and ſweat goeth off to<g ref="char:EOLhyphen"/>gether, and preſently it beginns to Purge by Stool and Urine, and will bring away corruption out of the Body, according to the quantity that doth offend; if the Body be very foul, it doth bring away almoſt a Chamber-pot full the firſt Stool, and two or three ſmall Stools of Corruption afterwards, and ſo you may go about your buſineſs: the People ſay it doth make them very hungry, and you may know by that, the Pill is very wholſome, and well prepared: and having the warm Bed all night, they draw all the bad Humours to the Stomach, and there correct their ſharpneſs, and ſend them down through the Bowels; But ſtill the more rarity of theſe Pills, they do not gripe at all, nor make you ſick; but ſtrengthen the whole Body, and chear the Spirits: and you may go where you pleaſe, and do what you pleaſe, only Women muſt not put their Hands in cold Water the next day: they may be taken any time of the year, with good ſucceſs; and will continue good longer than any Man can live.</p>
+            <p>Theſe Pills operate five ſeveral wayes: Firſt, after you have taken them at night going to Bed, they operate by ſleep; 2dly, By Wind downward; 3dly, By little breathing Sweat; and in the morning that goeth off; and 4thly, They work by Stool; and 5thly, By Urine</p>
+            <p>And if Children have any the ſame Diſtemper's aforeſaid, they may take from one year old ſo many Pills as they are years old, till they come to twenty Pills: and ſo they which are three or four ſcore years of age, may take twenty.</p>
+            <p>Theſe Pills raiſe the Lame out of their Beds, though Aged. This which I have ſaid is Truth.</p>
+            <p>The Doſe which I now ſell for a ſhilling, I formerly ſold for a Crown, but now the Poor may have the benefit, as well as the Rich.</p>
+            <pb n="12" facs="tcp:33193:7"/>
+            <p>You ſhall have them in Boxes, twenty in a Box, price one ſhilling; and if you find the firſt taking doth not the Cure, take twenty every third night, till you have taken four or five times, or till all your pain is gone; for they fail not to cure all ſorts of Pains, only the <hi>Sciatica,</hi> the Bone being out: put all the twenty into a Spoon, with a little Ale, or Beer, and ſwallow them all at once at night going to Bed, and have a large Chamber-Pot ready in the morning, you need not take any Poſſet-drink, nor eat or drink till Dinner time, for the Pills have enough in themſelves to uphold Nature, only thoſe which are very weak may drink ſome Poſſet Ale.</p>
+            <p>The Scurvy is the Mother and Nurſery of all Diſeaſes: and upon taking cold, or any diſorder of Body, it branches out one Diſtemper or other, and yet the grand cauſe which is the Scurvy, remains all one in the Body.</p>
+            <p>Moſt of theſe Cures, with thouſands more, I have done with the help of this my <hi>Friendly Pills,</hi> though I did not adminiſter them in the ſame manner as now I do.</p>
+            <div type="part">
+               <head>Now you ſhall hear of ſome of the Cures which I have done, the Peoples names, and places where they live: and I deſire you will enquire the truth of them, and I think you will hardly find any the like done before me.</head>
+               <list>
+                  <item>1. Mr. <hi>Alelxander Toys</hi> of <hi>Cattern wheel-yard,</hi> over againſt the Sheep-Pens in <hi>Weſt Smithfield,</hi> of the Feaver and Gripes of the Guts, when it had brought him ſo low, that none thought he would have lived.</item>
+                  <item>2. Mr. <hi>John Farmer</hi> of <hi>Limekil-yard</hi> in <hi>Limus,</hi> near the Sign of the Carpenters Arms, of the Ptiſik, and Cough of the Lungs, and Conſumption, when he was like to dye, and I told him if he did find good in my things, and live a week, he might with God's help recover: he returned thanks for his Cure.</item>
+                  <item>3. Mr. <hi>Edward Quinborow,</hi> over againſt the Bear and Ragged-Staff, near the Bank-ſide, <hi>Sothwark,</hi> of the Ague and Feaver.</item>
+                  <item>4. Mr. <hi>Wafs</hi> at the Sign of the <hi>Robbin-Hood</hi> and <hi>Little-John,</hi> in <hi>Maiden-Lane in Weſtminſter,</hi> who had a Coach run over his Leg, and I cured him in about three weeks.</item>
+                  <item>5. Mr. <hi>John Sherſly</hi> living at the Swan and Key in <hi>Brick-Lane</hi> in <hi>Old ſtreet,</hi> who had been quite deaf, troubled with a great noiſe in his Head above forty years, being above threeſcore and ſeventeen years of age when I cured him: both he and his Wife returned thanks both to God and me, and he heareth very well.</item>
+                  <item>6. Mr. <hi>William Shearman</hi> in <hi>Black-Fryers,</hi> over againſt the Dark-Entry, of the Stone and Gravel in the Kidneys and Bladder, and of the Sciatica.</item>
+                  <item>7. Mr. <hi>Ralph Steel</hi> of <hi>Clarkenwel,</hi> the next door to the Sign of the Flying-Horſe, of a Conſumption and great weakneſs.</item>
+                  <item>8. Mr. <hi>Harris</hi> of <hi>Chriſtophers Alley,</hi> in the upper <hi>More-Fields,</hi> of a Palſie, who could not get help in fourteen years, and near threeſcore years of age, and with Gods help I made him well.</item>
+                  <item>9. Mr. <hi>John Davis</hi> of <hi>Pickled-Herring-Stairs,</hi> at the Sign of the five Tobacco Pipes, of the Ague.</item>
+                  <pb n="13" facs="tcp:33193:7"/>
+                  <item>10. Mr. <hi>William Medbery,</hi> of St. <hi>Martins</hi> in the <hi>Fields</hi> a Coachmaker, next door to the Sign of the Sugar-Loaf at a Glaſsmakers, of the Sciatica in his Hip, and at times in all his Joints, who lay very weak, and could not get help by any other.</item>
+                  <item>11. Mr. <hi>Edward Baily,</hi> at the Kings Brew-Houſe, over againſt the Turks-Head in St. <hi>Giles</hi>'s in the <hi>Fields,</hi> of the Griping Plague in the Guts.</item>
+                  <item>12. Mr. <hi>Richard Bower,</hi> at the Sign of the Ship in <hi>Jerman Street Weſtminſter,</hi>
+                     <note place="margin">☜</note> of the Stone and Gravel: there came a ſmall Stone from him at the firſt; and after he had uſed that I miniſtred to diſſolve the Stone, there came from him above half a pint, by his own relation, of Gravel and Sand, and within eight or nine dayes time; he made water very well all the time, and after that was very well.</item>
+                  <item>13. Mr. <hi>Seal</hi> an Oyl-man in <hi>Holborn,</hi> over againſt the White-Lyon at the lower end of <hi>Hatton Garden</hi> end, of a Feaver, and Griping in the Guts.</item>
+                  <item>14. Mr. <hi>Fawey</hi> at the Black-Raven in <hi>Long-Acre,</hi> of the Sciatica in his Hip.</item>
+                  <item>15. Mr. <hi>Adam Prince</hi> at the Sign of the Boot in <hi>Kings-ſtreet Weſtminſter,</hi> of the Stone and Gravel in the Kidneys and Bladder.</item>
+                  <item>16. Mr. <hi>Barns</hi> of <hi>Hornſy,</hi> four miles form <hi>London,</hi> of the Ague.</item>
+                  <item>17. <hi>William Day</hi> near the Grey-Hound in <hi>Broad-Mead</hi> in <hi>Briſtol,</hi> of deafneſs, being near thereſcore years of age when I cured him, and now he heareth as well as any.</item>
+                  <item>18. <hi>John Pawel</hi> of <hi>Donkerton,</hi> three miles from <hi>Bath,</hi> of a Wen on his Eye<g ref="char:EOLhyphen"/>brow,<note place="margin">☜</note> being of great bigneſs: and he brought it into the World with him, being near thirty years of age when I cured him, and I did it without cutting.</item>
+                  <item>19. Mr. <hi>Edward Corbis</hi> of the <hi>Neat-Houſes</hi> a Gardiner, of great pain and ſtop<g ref="char:EOLhyphen"/>page of his Stomach.</item>
+                  <item>20. <hi>Francis Hollis</hi> in <hi>Wapping,</hi> at the Sign of the Water-houſe, of great pain in his Ankles, who could not get help by any in three or four years.</item>
+                  <item>21. <hi>William Aſh</hi> of <hi>Bednal-Green,</hi> over againſt the Old Chappel, of the third-day Ague, and Feaver.</item>
+                  <item>22. Mr. <hi>John Weſton</hi> of the <hi>Neat-houſes,</hi> near <hi>Weſtminſter,</hi> of the Third-day Ague, and Feaver.</item>
+                  <item>23. Mr. <hi>Phillip Luke</hi> of the <hi>Neat-houſes,</hi> near <hi>Weſtminſter,</hi> of the Stone.</item>
+                  <item>24. Mr. <hi>John Baker,</hi> a Ship Carpenter at <hi>Deptford,</hi> near the Checquer, of a Fea<g ref="char:EOLhyphen"/>ver, with great pain in his ſide.</item>
+                  <item>25. Mr. <hi>Samuel Chadwel,</hi> the next door to the Sign of the Worlds-end, in <hi>Tooly-ſtreet</hi> in <hi>Southwark,</hi> of the Feaver, and Gripes in the Guts.</item>
+                  <item>26. Mr. <hi>John Heel</hi> of <hi>Angel-Alley</hi> in <hi>Biſhops gate-ſtreet,</hi> I ſaved his Leg from rotting off.</item>
+                  <item>27. Mr. <hi>Thomas Anyan</hi> in <hi>Bedfordberry,</hi> over againſt the Tobacco Roul, of Looſ<g ref="char:EOLhyphen"/>neſs and Vomiting, with a Cough and Feaver, and great pain.</item>
+                  <item>28. Mr. <hi>Shephard,</hi> next door to the Golden-Ball in <hi>Hatton-Garden,</hi>
+                     <note place="margin">☜</note> of the new Feaver, and Gripes in the Guts, his Tongue was as black as Ink with the violence of the Diſtemper, yet with Gods help, I made him as well as ever he was in his life.</item>
+                  <item>29. Mr. <hi>James George</hi> on the Bank ſide near the <hi>Bear-Garden</hi> in <hi>Southwark,</hi>
+                     <pb n="14" facs="tcp:33193:8"/>of great pain in his Shoulders, Arms, and Hips.</item>
+                  <item>30. Mr. <hi>John Butcher</hi> of <hi>Hay-grove,</hi> a little way out of <hi>Warminſter in Wilt-Shire,</hi> of a Cancer in his Shoulder, Neck and Throat; he was ſo bad that none would meddle with him but my ſelf;<note place="margin">☞</note> when I had undertaken him, the Doctors thereabout laught: and one ſaid he would give me fifty pound, if I cured him, and others likewiſe; but when I had cured him, there was not any would give me a Peny, but himſelf, yet with Gods help, I made him as well as ever he was in his life.</item>
+                  <item>31. Mr. <hi>Henry Clare,</hi> of a Conſumption, when he was ſo much waſted, that his Fleſh was all withered away,<note place="margin">☞</note> that he had not any thing left to cover his Bones, but the Skin; I did never ſee any Man ſo bare of Fleſh neither dead nor alive, and uſing my things, he grew ſtrong and luſty, and Fleſh grew up and covered his Bones, inſomuch, that he hath as much Fleſh as any ordinary Man; and thus we may ſee God bleſſeth the means ſometimes contrary to mens expectations: the People at the Golden Pattin, over againſt the <hi>Kings-Bench</hi> in <hi>Southwark,</hi> will give you an account of this great Cure.</item>
+                  <item>32. Mr. <hi>Cook</hi> of <hi>Spalldock,</hi> three miles off St. <hi>Eeds,</hi> of the Sciatica-Gout.</item>
+                  <item>33. Mr. <hi>Whale</hi> of <hi>Wells,</hi> of Lameneſs, who was not able to riſe out of his Bed, and could not get help by any, and I gave him eaſe of his pain, in about three hours, and in a ſhort time cured him.</item>
+                  <item>34. Mr. <hi>Thomas Day</hi> living in <hi>Shore-Ditch,</hi> at a Corner Brick-houſe, next to <hi>Hollow-way Bridge,</hi> of a Sciatica.</item>
+                  <item>35. Mr. <hi>Abel Barton</hi> at the Brewhouſe, at the upper end of St. <hi>John-ſtreet,</hi> of the Gout,<note place="margin">☞</note> being near threeſcore years of Age, and ſo lame with it, that he was not able to turn in his Bed, and with Gods help, I made him as well as ever he was in his life.</item>
+                  <item>36. Mr. <hi>Michael</hi> a School-maſter, in <hi>Angel Alley</hi> in <hi>Grays-Inn-Lane,</hi> of a ſore and Rheumy Eye, who had made tryal of able Men, for the ſpace of ſeven or eight years, and could not get any remedy, and with Gods help I made him well in nine or ten weeks.</item>
+                  <item>37. Mr. <hi>Richard Young</hi> of <hi>Park-ſtreet</hi> near St. <hi>Albans,</hi> of a Wen upon the top of his Head: who could not get help by any other in twenty years, and I took it out at twice dreſſing, not ſpilling one drop of blood.</item>
+                  <item>38. Mr. <hi>Edward Squire</hi> in Goſwel Street, at Mr. <hi>Matthew Brown's</hi> Houſe a Sh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o-maker, over againſt the Pump, between the Sign of the Maiden-Head and the Bell,<note place="margin">☞</note> of a Cancered Wen in the ſide of his Neck, near as big as a penny Loaf, which grew faſt to the <hi>Mandible,</hi> or the Jaw Bone; and the Veins and Sinews grew through it, and I Cured him without hurting the Veins and Sinews, inſo<g ref="char:EOLhyphen"/>much that none can hardly ſee where it grew: And if he be not there now, Mr. <hi>Brown,</hi> the Man of the fore-ſaid Houſe can give you an account of this great Cure.</item>
+                  <item>39. Mr. <hi>Robert Doyly,</hi> of <hi>Kingſton</hi> upon <hi>Thames,</hi> ten miles from <hi>London,</hi> of the Vomiting Blood.</item>
+                  <item>40. Mr. <hi>Robert Miles,</hi> of <hi>Kent-ſtreet,</hi> next door to the Roſe, in <hi>Southwark,</hi> of the Ague and Feaver.</item>
+                  <pb n="15" facs="tcp:33193:8"/>
+                  <item>41. Mr. <hi>John Arnel,</hi> at the top of <hi>Saffron-Hill,</hi> of the Ague and Feaver.</item>
+                  <item>42. Mr. <hi>Michael Smith,</hi> near the Sign of the Griffin in <hi>Ruſſel-ſtreet</hi> in <hi>Covent-Garden,</hi> of great pain in his Limbs, and the Cramp.</item>
+                  <item>43. Mr. <hi>Bull,</hi> near the Sign of the George, in <hi>Grove-ſtreet,</hi> in <hi>Hackney,</hi> of the Third day Ague.</item>
+                  <item>44. Mr. <hi>Richard Pope,</hi> of <hi>Bricksham,</hi> two Miles off <hi>Dartmouth,</hi> of great pains in his Stomach, Sides, and Back.</item>
+                  <item>45. <hi>John Beard,</hi> of <hi>Tottnes</hi> in <hi>Devonſhire,</hi> of Lameneſs in all his Limbs, and I ſoon made him lay by his Crutches.</item>
+                  <item>46. <hi>William Randal,</hi> three Miles off <hi>Exeter,</hi> of the Megrim and Cough, and great pain of his Stomach and Back.</item>
+                  <item>47. <hi>William Friggey</hi> of <hi>Glaſton,</hi> four Miles from <hi>Wells,</hi> of great pain in his Side, being Aged, and could not get help by any other.</item>
+                  <item>48. <hi>Robert Brownſy,</hi> of <hi>Honington</hi> in <hi>Devonſhire,</hi> of the Cough, and great weakneſs in all his Body; and I made him go about his Work in three or four dayes.</item>
+                  <item>49. <hi>Walter Collins,</hi> of <hi>Charlton Adam,</hi> eight Miles off <hi>Taunton,</hi> with Noiſe and Deafneſs in his Head.</item>
+                  <item>50. <hi>Benjamin Hollet,</hi> in <hi>Swan Lane Court</hi> on the Key in <hi>Briſtol,</hi> of the Third day Ague.</item>
+                  <item>51. <hi>Thomas Roads,</hi> of <hi>Broad Mead</hi> in <hi>Briſtol,</hi> of the Ptyſick and Cough, with a Conſumption, and extraordinary pain and ſtoppage at his Stomack.</item>
+                  <item>52. <hi>Thomas Elot,</hi> near the Sign of the <hi>Leg</hi> in <hi>Temple ſtreet</hi> in <hi>Briſtol,</hi> of the Cough.</item>
+                  <item>53. <hi>John Douting,</hi> of <hi>Lewins Mead</hi> in <hi>Briſtol,</hi> of great weakneſs and pain.</item>
+                  <item>54. <hi>John Cox</hi> of <hi>Bath,</hi> of Lameneſs, who could not get help by any other.</item>
+                  <item>55. <hi>James Bramble,</hi> of <hi>Downing,</hi> in <hi>Mangersfields</hi> Pariſh, three Miles from <hi>Briſtol,</hi> of the Dropſie, with great pain all over his Body: I took away all his pain and ſwelling, and made him as well as ever he was in his Life, with God's Bleſſing and help.</item>
+                  <item>56. <hi>John Stevens,</hi> of <hi>Swanſwick,</hi> two Miles off <hi>Bath,</hi> of the Sciatica,<note place="margin">☜</note> pain in his Hip and Side; he being above threeſcore years of Age when he was Cured.</item>
+                  <item>57. <hi>Benjamin Cott,</hi> of <hi>Bath,</hi> two ſad Ulcers in his Feet.</item>
+                  <item>58. <hi>John Selmon,</hi> of <hi>Marſhfield</hi> in <hi>Gloſterſhire,</hi> of a ſad pain and lameneſs in his Shoulder.</item>
+                  <item>59. <hi>Robert Brothers,</hi> of the <hi>Deviſes Green,</hi> of an Ague and vomitting Blood.</item>
+                  <item>60. <hi>John Sidhinham</hi> of <hi>Chicklet</hi> ſix Miles of <hi>Warminſter,</hi> of the Ague.</item>
+                  <item>61. <hi>Henry Bealing</hi> of <hi>Gillingame</hi> pariſh, ſeven miles off <hi>Warminſter,</hi>
+                     <note place="margin">☜</note> of the Sci<g ref="char:EOLhyphen"/>atica pain in his Hip and Side, being above threeſcore years of Age when he was cured.</item>
+                  <item>62. <hi>William Hayght</hi> of <hi>Allſy</hi> Pariſh a mile off <hi>Coventry,</hi> of the Sciatica pain in his Hip.</item>
+                  <item>63. <hi>William Rabbet</hi> of <hi>Kettorin</hi> in <hi>Northamptonſhire,</hi> of the Third day Ague.</item>
+                  <item>64. <hi>George Morris,</hi> of <hi>Anſly</hi> four miles from <hi>Coventry,</hi> of a Cancer on his Face, who could not get help in fourteen years, being near threeſcore years of age when he was cured.</item>
+                  <pb n="16" facs="tcp:33193:9"/>
+                  <item>65. Mr. <hi>Henry Chapman</hi> of <hi>Moulton,</hi> three Miles from <hi>Northampton,</hi> whoſe Hand was to be cut off, and I cured him without the loſs of a Joynt.</item>
+                  <item>66. <hi>Thomas Gun</hi> of <hi>Rodington</hi> three miles off <hi>Northampton,</hi> of the Third dayes Ague.</item>
+                  <item>67. <hi>John Smith</hi> of <hi>Kingſwaldon,</hi> three miles off <hi>Hitchen,</hi> of a Wen on his fore<g ref="char:EOLhyphen"/>head, without a skar.</item>
+                  <item>68. <hi>Thomas Robinſon</hi> of <hi>Soothil</hi> Pariſh near <hi>Hitchen,</hi> of the Third-dayes Ague.</item>
+                  <item>69. <hi>Richard Dear</hi> of <hi>Shillington</hi> three miles off <hi>Hitchen,</hi> of Deaſneſs.</item>
+                  <item>70. <hi>Peter Shadbole</hi> of <hi>Graveniſt</hi> four miles off <hi>Hitchen</hi> in <hi>Hartfordſhire,</hi> of the Ague.</item>
+                  <item>71. <hi>Matthew Negus</hi> of St. <hi>Needs,</hi> of the Third-day Ague, who could not get help in three years.</item>
+                  <item>72. <hi>John Roch</hi> of <hi>Swaſy</hi> three miles off St. <hi>Jues,</hi> of the Ague.</item>
+                  <item>73. <hi>Robert Thurborn</hi> of <hi>Hadengham</hi> in the Iſle of <hi>Ely,</hi> who had kept his bed a long time of Lameneſs, with great pain, who could not get help by any, and I cured him in one weeks time with Gods help.</item>
+                  <item>74. <hi>Robert Pillings</hi> of <hi>Notingham,</hi> of the Ague.</item>
+                  <item>75. <hi>Thomas Raynor</hi> of the ſame Town, of ſix Ulcers in his Legs, who could not get help in many years.</item>
+                  <item>76. <hi>Thomas Foſter</hi> of <hi>Darby,</hi> of the Scurvy all over his Body, and I cured him, with Gods help.</item>
+                  <item>77. Mr. <hi>John Acton</hi> of <hi>Howbick-Hall</hi> neer <hi>Worſup</hi> in <hi>Notinghamſhire,</hi> who had been quite deaf above twenty years,<note place="margin">☞</note> being above fourſcore years of age, and I made him hear as well as any in ſix weeks time, with God's help.</item>
+                  <item>78. <hi>John Aſtcot</hi> of <hi>Tornes</hi> in <hi>Devonſhire,</hi> of the Stone, being about threeſcore years of age when I cured him:<note place="margin">☞</note> he could not make one drop of Water, his pain was very terrible, and I made the Stone to break to pieces in about ſix hours, and cannot hear that he hath been troubled any more therewith, being neer ſix years ſince: Witneſs <hi>John Sampſon, Peter Bragg, Ptolomeus Sampſon, Zach. Pan<g ref="char:EOLhyphen"/>chard, Anthony Longworth, John Amott,</hi> being his Neighbours in <hi>Totnes.</hi>
+                  </item>
+                  <item>79. <hi>William Blackaller</hi> of <hi>Totnes</hi> aforeſaid, of the Apoplexy and Palſy on his right ſide, and a Conſumption withal, ſo that he coul dnot riſe out of his Bed, and none thought he would ever recover; and I firſt made him go on Crutches, and ſoon after without, and within a reaſonable time, with Gods help, I made him well.</item>
+                  <item>80. <hi>William Day</hi> near the Greyhound in <hi>Broad-Mead</hi> in <hi>Briſtol,</hi> of Deafneſs; being near threeſcore years of Age when I cured him, and he heareth as well as any.</item>
+                  <item>81. Mr. <hi>Thomas Love</hi> near <hi>Shorditch Church,</hi> of the Jaundies, he being near fourſcore years of Age, and cannot hear the he hath been amiſs ever ſince.</item>
+                  <item>82. Mr. <hi>Adam Fowler</hi> Gardener, of <hi>Brick Lane</hi> in <hi>Old ſtreet</hi> near the Sign of the Horſhooe, of the new Plague in the Guts, with voiding Blood and Slime by Stool.</item>
+                  <item>83. I helpt <hi>John Neal</hi> at Mris. <hi>Lumin</hi>'s Houſe at the three Tobacco Rolls in
+<pb n="17" facs="tcp:33193:9"/>
+                     <hi>Woodſtreet</hi> near the Mill-Bank at <hi>Weſtminſter,</hi> of a broken Vein, who bled at the Noſe, Mouth, and by Urine, and of black ſpots in the skin all over his Body.</item>
+                  <item>84. <hi>John Day</hi> of <hi>Chiriton Buſhel</hi> nine miles from <hi>Exeter,</hi> of great pain in his Head, and alſo the black Cataracks, which were breeding in his Eyes; and he was ſo blind with them that he was fain to grope to find the Door: and to the beſt of my remembrance he had but five or ſix ſhillings worth of things of me and within three weeks, or thereabouts, he brought me a diſh of ſmall Trouts, and told me he caught them himſelf with an Angle, and gave me thanks for the good I had done for him.</item>
+                  <item>85. <hi>William Grigg</hi> of <hi>Atherford</hi> ſix miles from <hi>Taunton</hi> in <hi>Devonſhire,</hi> of great pain and weakneſs which was cauſed by a great Surfeit, and all that had him in hand had given him over for a dead Man, and I gave him preſent eaſe and cured him.</item>
+                  <item>86. Mr. <hi>Gregory Coe</hi> on the Bank-ſide near the Bear-Garden in <hi>Southwark,</hi> of the Palſie, who had not the uſe of his hands to cut his Meat, or to help himſelf any manner of way, for the ſpace of three years and two months, being near fourſcore years of age, and I ſoon made him well, with Gods help, and he hath the uſe of his hands as well as any of his Age.</item>
+                  <item>87. <hi>William Panchin</hi> near the Sign of the Leg in <hi>Templeſtreet</hi> in <hi>Briſtol,</hi> of the Sciatica-Gout in his Hips, who was ſo lame therewith, that he was fain to creep about the Houſe upon his Hands and Knees, being about threeſcore years of Age,<note place="margin">☜</note> and could not get help of any other, and I made him as well as ever he was in his life, with God's help.</item>
+                  <item>88. <hi>John Jackman</hi> of <hi>Guilford</hi> in <hi>Surry,</hi> of the Head-ach, who ſaith his pain was ſo great for the ſpace of twelve Weeks before he made uſe of my things, that he could not take any reſt night nor day.</item>
+                  <item>89. Mr. <hi>Robins</hi> of <hi>Cranebrook</hi> in <hi>Kent,</hi> a worthy Perſon of good note and qua<g ref="char:EOLhyphen"/>lity, who had laboured under the pain of the Gout, not able to ſtir out of his Chamber for the ſpace of three months; who having heard of me,<note place="margin">☜</note> ſent no worſe Perſon than his own Wife being a Knights Daughter, to whom I ſaid I did not fear with God's help to raiſe him up in two dayes time: &amp; a while after this noble Perſon was pleaſed to ſend for me, and gave thanks both to God and me for his ſpeedy help; and deſired me to put it into my Book for the publick good, that others might know where to come and have help alſo, <hi>Auguſt</hi> 8. 1674.</item>
+                  <item>90. I cured Mr. <hi>James Gwilliams</hi> of <hi>Archingfield</hi> eight miles from <hi>Hereford,</hi> in <hi>Wales,</hi> of the <hi>Leproſy</hi> all over his Body, who had been afflicted with that loathſome Diſeaſe above twenty years; and ſeeing after all means uſed here he could not get any help in <hi>England,</hi> he travelled beyond the Seas, hoping the change of Air might help him, but all to no purpoſe, for his Diſtemper ſtill attended him:<note place="margin">☜</note> and after his return home he yet made further trial for help, but without any effect: then he made ſome Voyages to Sea, hoping the Air on the Salt-water might profie ſomething, but all to no purpoſe: So at his return home, hearing what Cures I did, he came to me, and told me as aforeſaid, and alſo that the conſtant w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rk<g ref="char:EOLhyphen"/>ing of the Diſtemper was in ſo ſtrange a manner, that every night in his Bed at leaſt a quart of thin white Scales would drop from his Skin; beſides he judged
+<pb n="18" facs="tcp:33193:10"/>there might as many fall from him conſtantly in the day-time, with a briny thin humour Iſſuing forth through all the Pores of the Skin, inſomuch that he loathed himſelf; all which notwithſtanding, I made him as well and as clear from his Di<g ref="char:EOLhyphen"/>ſtemper as any man in <hi>England.</hi> This <hi>Archingfield</hi> aforeſaid lives in the Pariſh of <hi>Waynyards</hi> near <hi>Broadoak.</hi> He returned thanks both to God and me the 24 of <hi>July</hi> 1674.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Now you ſhall hear of ſome of the great Cures I have done on Women, and the places where they live, here being already ninety Witneſſes of Men.</head>
+               <list>
+                  <item>1. Mrs. <hi>Terry,</hi> both her Husband and her ſelf deſired this great Cure ſhould be ſet down in my Book, ſo that others might know where to come to me and find good in like manner.
+<p>Her Diſeaſe was a ſtoppage fallen into her Kidnies, which cauſed an extraordina<g ref="char:EOLhyphen"/>ry racking and torturing pain in her back, and great pain and weakneſs in her Hips and Limbs downward; this Diſtemper ſeized her immediately after my going into the Country, whereupon ſhe conſulted the beſt means ſhe could for the Cure, but found none to be effectual;<note place="margin">☞</note> and at my return to <hi>London,</hi> being near three months, ſhe ſent her Water to me, by which and other Circumſtances, I ſcund her to be in a very deſperate condition, and that in all likelihood ſhe could not live above a day or two; whereupon I adminiſtred ſomething to her, and in once taking ſhe found a great benefit by it, which gave me incouragement to proceed in the Cure, which it pleaſed God in a ſhort time to make an effectual and perfect Cure. She liveth at the Bunch of Grapes near the Kings-Bench in <hi>Southwark,</hi> where ſhe and her Family are able to atteſt the truth hereof.</p>
+                  </item>
+                  <item>2. The Wife of <hi>William Thomas</hi> of <hi>Cock-lane</hi> going out of <hi>Cornſtreet</hi> into <hi>Nicolas<g ref="char:EOLhyphen"/>ſtreet</hi> in <hi>Briſtol,</hi> of a Cancer in her left Breaſt and Side, when they that had her in hand gave her off for a dead-Woman;<note place="margin">☞</note> the Diſtemper being ſo bad, with hardneſs of red, yellow, and black Colours, which was very ſad to behold; and they every day put in a Tent between her Ribs quite into her Body, about the length of a mans finger; ſo I judge the end of the Tent muſt needs reach within an Inch of her Heart: She had alſo a continual Feaver attending on her; ſo that there could not be any thing expected but Death; I preſently cauſed the Tent to be laid by, and I never applied Tent nor Inſtrument, but gave her preſent eaſe, and cured her in nine or ten weeks time with God's help.</item>
+                  <item>3. <hi>Elizabeth Tonſon,</hi> of <hi>Newington Butts,</hi> in <hi>Blackmans-ſtreet</hi> in <hi>Lamb-Alley,</hi> in <hi>Southwark,</hi>
+                     <note place="margin">☞</note> of a Cancer in her Breaſt, almoſt as big as a man's Head, and I con<g ref="char:EOLhyphen"/>ſumed it away without cutting, and without putting her to pain, or hindring buſi<g ref="char:EOLhyphen"/>neſs; and ſhe continueth well to this day, it being three or four years ſince I cured her.</item>
+                  <item>4. The Wife of <hi>Robert Hariſon,</hi> of <hi>Coundon</hi> a Mile off <hi>Coventry,</hi> of the Conſump<g ref="char:EOLhyphen"/>tion, Feaver, Yellow and Black Jaundice, having theſe four Diſtempers all on her at once; and all that had her in hand gave her off for a dead Woman; and yet
+<pb n="19" facs="tcp:33193:10"/>God was pleaſed to give a Bleſſing to the means I uſed, and reſtored her to her for<g ref="char:EOLhyphen"/>mer Strength and Health again.</item>
+                  <item>5. The Wife of Mr. <hi>Middleton,</hi> at the Golden Pattin over againſt the Kings-Bench in <hi>Southwark,</hi> of the Dropſie, with great weakneſs, who had loſt the greateſt part of her Blood, ſo that ſhe had little left in her Veins but watry Humours which turned to a ſad Dropſie, with great weakneſs; and this came with a miſcar<g ref="char:EOLhyphen"/>riage of two Children at one Birth; and I made her as well as ever ſhe was in her Life.</item>
+                  <item>6. The Wife of Mr. <hi>Edward Thomas,</hi> near the Sign of the Gun, in <hi>Woolledge,</hi> of great pain and weakneſs after Child-bearing, who had made uſe of other Doctors for about three months, and could not get any help.</item>
+                  <item>7. Mrs. <hi>Margaret Guiny,</hi> of <hi>Church-Yard Alley</hi> in <hi>Chick-Lane</hi> of great pain in her Stomach and Back, and Vomiting.</item>
+                  <item>8. The Wife of Mr. <hi>Edward Pearſiſil,</hi> in the Glaſs-Houſe yard in <hi>Ratcliff,</hi> neer the Red-Lion, of Weakneſs and Waſting of the Kidneys, with great pain in her Head and left Side, who could not get help in many years.</item>
+                  <item>9. The Wife of Mr. <hi>John Fiſher</hi> next door to the White Horſe, over againſt <hi>Claringden-Houſe</hi> in <hi>Portugal-ſtreet,</hi> at the upper end of <hi>Pickadilly,</hi> of the Palſie all on one ſide; and other weakneſs, which came with miſcarrying of her Child.</item>
+                  <item>10. The Wife of Mr. <hi>John Hodgkins,</hi> in Shoomakers Row in <hi>Black Fryars,</hi> at the Sign of the Laſt, of a Feaver, with great pain on her Stomach, and was ſo bad that none thought ſhe would have lived.</item>
+                  <item>11. The Wife of Mr. <hi>Bullock</hi> of <hi>Feather-Alley,</hi> or Yard, in <hi>Grays-Inn Lane,</hi> of the Feaver, and Gripes in the Guts.</item>
+                  <item>12. The Wife of Mr. <hi>Iſaiah Palmer,</hi> the next door to the Old Shears in Great <hi>Woodſtreet,</hi> of a Cancered Wen on her Hand, which was breeding above twelve Years, and could not get help, and I made here as well as ever ſhe was in her Life.</item>
+                  <item>13. The Wife of Mr. <hi>Steel,</hi> the next door to the Flying-Horſe, near <hi>Hockly,</hi> in <hi>Clarkenwel</hi> Pariſh, of great pain in her Side, who could not get help.</item>
+                  <item>14. The Wife of <hi>John Wright,</hi> of <hi>Brick-Lane</hi> in <hi>Old-ſtreet,</hi> in Key and Swan-Yard, of Deafneſs.</item>
+                  <item>15. <hi>Elizabeth Brownſear,</hi> of Swan-Alley, in the <hi>Minories,</hi> of the Convulſion-Fits, and ſhortneſs of Breath.</item>
+                  <item>16. Mrs <hi>Ann Fiſher,</hi> of Churchyard-Alley in <hi>Chick-Lane,</hi> of Deafneſs and Singing in her Head.</item>
+                  <item>17. <hi>Judith Brownſy,</hi> in <hi>Honington,</hi> in <hi>Devonſhire,</hi> of the Collick and Spleen.</item>
+                  <pb n="20" facs="tcp:33193:11"/>
+                  <item>18. <hi>Mary Wilſon,</hi> of <hi>Booknel</hi> Pariſh two Miles off <hi>Honington,</hi> of loofneſs of her Teeth, when they were ready to fall out.</item>
+                  <item>19. <hi>Rebeccah Phillips,</hi> of the ſame Town, of a ſad pain in her Breaſt and Head, being near fourſcore years of Age when I cured her: She could not get help by any other.</item>
+                  <item>20. <hi>Suſannah Woran,</hi> of <hi>Stockland</hi> five M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>les off <hi>Honington,</hi> of the Ague and Feaver.</item>
+                  <item>21. The Wife of Mr. <hi>John Brooks,</hi> in the Back-Lane without the Caſtle-Gate in <hi>Briſtol,</hi> of the Ague and Feaver.</item>
+                  <item>22. I did much good to <hi>Deborah Phillips,</hi> in <hi>Rackly-ſtreet,</hi> in <hi>Briſtol,</hi> over againſt the Three-Kings, for the Riſing of the Mother, with great pain in her Stomach, and great weakneſs of Body.</item>
+                  <item>23. The Wife of Mr. <hi>Charles Parſons,</hi> at the <hi>Black-Raven</hi> in <hi>Pearpool-Lane,</hi> of the Feaver, with great pain at her Stomach.</item>
+                  <item>24. Mrs. <hi>Clipſon,</hi> at <hi>Safforn-Hill,</hi> next door to the Tobacco-Roll, of a Cough, who could not get help by any other.</item>
+                  <item>25. <hi>Elizabeth Fiſh,</hi> of <hi>Hogſdon,</hi> the next door to the Three-Kings, of a great pain and lameneſs in her Limbs, and the Grips in the Guts.</item>
+                  <item>26. Mrs. <hi>Elizabeth</hi> Cleverly, next door to the Three Neats-Tongues, in <hi>Sil<g ref="char:EOLhyphen"/>ver-ſtreet</hi> in <hi>Bloomsbury,</hi> of the Ptiſick and Cough, who was ſo bad therewith, that ſhe was likely to loſe her ſpeech.</item>
+                  <item>27. <hi>Alice Baker,</hi> over againſt the Black-Swan, in <hi>Turnmil-ſtreet,</hi> at Mr. <hi>Cor<g ref="char:EOLhyphen"/>ner's</hi> Houſe, a Brick-layer, of Looſneſs of her Teeth, when they were all ready to fall out. She is near fourſcore years of Age.</item>
+                  <item>28. Mris <hi>Holloway,</hi> at the Nags-Head in <hi>Grays-Inn-Lane,</hi> of a Feaver with great Weakneſs, when none thought ſhe would have lived.</item>
+                  <item>29. Mrs. <hi>Collins.</hi> near the Caſtle-Gate, in <hi>Briſtol,</hi> of an Impoſthume in her Ear.</item>
+                  <item>30. <hi>Elizabeth Gareiſh,</hi> of <hi>Warminſter,</hi> in <hi>Wiltſhire,</hi> of a Conſumption, with great pain at her Stomach, Head, and Side, who could not get help in three years.</item>
+                  <item>31. <hi>Ann Penny,</hi> of <hi>Froom,</hi> five Miles from <hi>Warminſter,</hi> of the Evil in her Neck.</item>
+                  <item>32. The Wife of <hi>Thomas Wenton,</hi> of <hi>Forſhil,</hi> two Miles off <hi>Coventry,</hi> of the Mo<g ref="char:EOLhyphen"/>ther and Spleen.</item>
+                  <item>33. The Wife of Mr. <hi>Burnham,</hi> of <hi>Weſthadingham,</hi> ſeven Miles off <hi>North<g ref="char:EOLhyphen"/>gmpton,</hi> of Lameneſs in her Back and Hips, which came with Child-bearing, and I ſoon made her throw by her Crutches, and cured her.</item>
+                  <item>34. The Wife of <hi>William Biggs</hi> a Smith in <hi>Darby,</hi> of the Mother and Spleen.</item>
+                  <pb n="21" facs="tcp:33193:11"/>
+                  <item>35. The Wife of <hi>Rober Oſtine</hi> of <hi>Hitchen</hi> in <hi>Harfordſhire,</hi> of a lame Leg, and ſhrunk Sinews, who could not ſet her Foot to the ground, nor get help in twenty years, and I made her as well as ever ſhe was in her life.</item>
+                  <item>36. <hi>Mary Tholins</hi> of <hi>Ilkuſton on the Hill</hi> near <hi>Darby,</hi> of the Evil on her Hand.</item>
+                  <item>37. <hi>Margaret Valence</hi> of <hi>Long-Maſton</hi> near <hi>Worſworth</hi> in <hi>Darbyſhire,</hi> of the Evil in her Neck.</item>
+                  <item>38. <hi>Joan Lodſdon</hi> of <hi>Southward</hi> near St. <hi>Needs,</hi> of blindneſs with the E<g ref="char:EOLhyphen"/>vil.</item>
+                  <item>39. <hi>Elizabeth Barton</hi> at the Wool-pack in <hi>Sea Alley</hi> in <hi>Kings-ſtreet</hi> in <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi> of the Dropſie, and Timpany, who was likely to dye thereof.</item>
+                  <item>40. The Wife of Mr. <hi>Richard Kirwood</hi> an Apothecary in <hi>Corn-ſtreet</hi> in <hi>Briſtol,</hi> who got harm in her Lying in, and had the advice of many able Doctors, but none could cure her, inſomuch that there was little expected but Death; however, with God's Bleſſing, I made her as well as ever ſhe was in her life.</item>
+                  <item>41. The Servant of Mr. <hi>Richard Corbit</hi> at the Globe in <hi>Long lane,</hi> who was quite blind of one Eye, of the Evil, and I cured her.</item>
+                  <item>42. I cured <hi>Mary Wilmot</hi> of <hi>Hogs-Norton</hi> in <hi>Oxfordſhire,</hi> of the Evil and Scur<g ref="char:EOLhyphen"/>vy, when it had almoſt eat her Limbs to pieces.</item>
+                  <item>43. I cured the Wife of <hi>John Stooks</hi> of <hi>Guilford</hi> in <hi>Surry,</hi> of tormenting pain and lameneſs of the Scurvy in all her Limbs.</item>
+                  <item>44. I helpt Mrs. <hi>Lime</hi> a Lodger at the Crooked Billet in St. <hi>Martins Lane</hi> in the Fields, of five Stones that came from her at once,<note place="margin">☜</note> the firſt or ſecond time after ſhe had taken my things: They are about the bigneſs of little Nuts, ſhaped like a Muſcle, four of them, and the other is of another ſhape; any that pleaſe may ſee them.</item>
+                  <item>45. I cured Mrs. <hi>Sarah Merryman,</hi> over againſt the Sign of the B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll in <hi>Rotcheſter</hi> ſeven miles from <hi>Gravesend,</hi> of an Ague and Feaver,
+<q>
+                        <p>You may ſee, and prove the truth hereof, and you will find that there is not any but my ſelf have done any ſuch Cures, ſince God gave me the gift of Healing.</p>
+                        <p>Therefore, I would not have you believe all Men and Women that ſay they can do the ſame, for we live in a falſe Age and many People are given to lying: therefore prove the truth of their works, and mine, and you that cannot truſt your own judgments, take the advice of ſome godly honeſt Man, and ſo proceed.</p>
+                        <p>One thing more take notice of, which is this; Becauſe I do good to all that come, being curable, many of the People think that others can do the like, and ſo go to thoſe which have no skill, and ſo are cheated of their Money, Lives and all.</p>
+                     </q>
+                  </item>
+               </list>
+               <list>
+                  <pb n="22" facs="tcp:33193:12"/>
+                  <head>Here followeth and account of what Children I have cured.</head>
+                  <item>1. The Child of Mr. <hi>Edward Coſterine</hi> at <hi>Wapping-wall</hi> a Sailmaker, of the Rickets, and Hectick Feaver.</item>
+                  <item>2. The Son of Mr. <hi>Thomas Partridge</hi> at the lower end of <hi>Eaſt-Smithfield,</hi> near the <hi>Hermitage</hi> Bridge a Plummer, of the Feaver.</item>
+                  <item>3. The Child of Mr. <hi>Harkalus Bridſon</hi> near the Sign of the King <hi>David,</hi> a Dier, on the <hi>Bank-ſide</hi> in <hi>Southwark,</hi> of lameneſs all one ſide.</item>
+                  <item>4. The Child of Mr. <hi>Henry Peacock,</hi> near <hi>Catherins Dock,</hi> of the new Malignant Feaver and Cough.</item>
+                  <item>5. <hi>William Davis's</hi> Daughter of <hi>Warminſter</hi> in <hi>Wiltſhire,</hi> of the Evil in her Neck.</item>
+                  <item>6. <hi>Elizabeth Butcher,</hi> of the ſame Town, of a Scald and Leprous Head, who was twelve or thirteen years of Age, and brought it into the World with her.</item>
+                  <item>7. I cured her Siſter of the ſame Diſtemper.</item>
+                  <item>8. Mr. <hi>Brooks</hi> his Daughter of <hi>Fillingſly,</hi> three Miles off <hi>Coventry,</hi> of the Evil and Blindneſs.</item>
+                  <item>9. <hi>Elizabeth Weltons</hi> Son of <hi>Hill-woton,</hi> ſix Miles off <hi>Coventry,</hi> of the Evil and Blindneſs.</item>
+                  <item>10. Mr. <hi>Francis Plowmans</hi> Daughter of <hi>Wotton,</hi> two miles off <hi>Northampton,</hi> of the Palſie, and withered Hand and Arm.</item>
+                  <item>11. Mr. <hi>Vickers</hi> Daughter of <hi>Little Oakly,</hi> ten miles off <hi>Northampton,</hi> of the Evil and Blindneſs.</item>
+                  <item>12. <hi>John Smiths</hi> Daughter of <hi>Northampton,</hi> of Convulſion-Fits.</item>
+                  <item>13. The Daughter of Mr. <hi>Standbridge</hi> in <hi>Catherine-wheel-yard,</hi> over againſt the <hi>Sheep-pens</hi> in <hi>Smithfield,</hi> of the Feaver, and Grips in the Guts.</item>
+                  <item>14. Mr. <hi>Hayht's</hi> Son of <hi>Catherine-wheel-yard</hi> in <hi>Smithfield,</hi> of the Conſuming Feaver, which is the worſt of Conſumptions.</item>
+                  <item>15. The Child of Mr. <hi>Thomas Parſons,</hi> over againſt St. <hi>Giles</hi> Church at the Wool-Pack, of the Evil in his Hand, being eat through the Bones and Sinews; and to any honeſt Man's Judgment,<note place="margin">☞</note> was quite paſt Cure, his Hand being eaten almoſt to pieces; and now he is a brave Boy and five years old and upward, and his Hand well, and hath the uſe of it.</item>
+                  <item>16. The Child of Mr. <hi>Grimes,</hi> between <hi>Vine-ſtreet</hi> and <hi>Mutton-lane,</hi> near <hi>Clarken-Well,</hi> a Clock-maker, of the Rickets and Conſumption, when he was almoſt at Deaths door.</item>
+                  <item>17. The Son of Mrs. <hi>Mary Clark,</hi> near the <hi>Lamb</hi> in <hi>Iſlington,</hi> of the Lethargy, with great pain in his Head, and Deafneſs.</item>
+                  <item>18. <hi>Richard Kinds</hi> Child of <hi>Bachwell</hi> near <hi>Littleworth</hi> in <hi>Northamptonſhire,</hi> of the Rickets and Feaver, being four years of Age, and never could have any ſtrength to ſtand, and I made the Child to go about the Streets in a Fortnights time, with God's help.</item>
+                  <pb n="23" facs="tcp:33193:12"/>
+                  <item>19. I helpt Mrs. <hi>Mary Coopland</hi> in <hi>Beamont-yard,</hi> a little without <hi>Algate,</hi> of great lameneſs in her Hips.</item>
+                  <item>20. The Child of Mr. <hi>John Sereitt,</hi> at the upper end of <hi>Sea-Alley</hi> in <hi>Kings-ſtreet Weſtminſter,</hi> being pin'd away with a Conſumption and Rickets to Skin and Bones, being above two years of Age, and could not bear any ſtrength to ſtand, and peo<g ref="char:EOLhyphen"/>ple thought it was impoſſible for that Child to be recovered; however, with God's bleſſing, he is as brave a Boy as any about <hi>London.</hi>
+                  </item>
+               </list>
+               <p>And whereas there are ſick and diſeaſed Children in the Womb, that die be<g ref="char:EOLhyphen"/>fore they are born, or ſoon after, beſides it doth indanger the Womans Life alſo; This is to let you know that I Cure Children before they are born and preſerve the Womans Life and Health alſo.</p>
+               <p>And if Children have the ſame ſymptoms, as aforeſaid, they may take from one year old one Pill, and ſo many years old, ſo many Pills as they are years old, till they come to twenty Pills: And ſo they which are three or fourſcore years of Age may take twenty.</p>
+               <p>You are not to give Children any thing but Milk before they put forth their Foreteeth; but after the Foreteeth are come forth, let the Child by little and little be accuſtomed to chewing, and uſe fleſh minced very ſmall with Bread, which with a little chewing may be ſwallow'd eaſily; and abſtain ſucking the Breſt for at leaſt an hour after eating, leſt the Milk being mixed in the Stomach with the other Meats, and too long kept there, be corrupted; for I have obſerved that Children are ſcarce ever troubled with Worms while they uſe Milk alone.</p>
+               <p>I can with God's help ſave the lives of thouſands of Children that may dye breeding Teeth, and do it for ſmall charge, if the Parents are but willing.</p>
+               <p>I cure all ſorts of Blindneſs curable, without putting any thing into the Eyes.</p>
+               <p>I cure the Scald or Leprous Head without pain, or loſs of a hair of the Head.</p>
+               <p>All ſorts of Deafneſs curable</p>
+               <p>All ſorts of Sores, though the Bones be rotten.</p>
+               <p>THe <hi>Scarvies</hi> breed a <hi>Gonorrhea,</hi> and ſo will hard drinking, ſmoaking Tobac<g ref="char:EOLhyphen"/>co, and late ſitting up at nights, and a <hi>Gonorrhea</hi> will breed a Conſumption of the Reins and Kidneys, and this Conſumption will breed a <hi>Catarrh,</hi> which is known by a ſharp tickling in the Throat, which is a briny Rheum diſtilling down from the Brain, but comes from the whole maſs of Blood, being corrupted, and made thin and ſharp; and when it hath much Ulcerated the Lungs, the beſt things in the World will not cure; and that is known by much Coughing and Spit<g ref="char:EOLhyphen"/>ting Ropy Flegm in the night time, the loſs of natural reſt, the appetite bad, and ſtrength decaying, being heavy and melancholy, and little comfort in any
+<pb n="24" facs="tcp:33193:13"/>thing, and the fleſh waſting away; the maſs of Blood is all naught, the Bodies of moſt all raw on the inſide, from the Throat to the neck of the Blader; and fur<g ref="char:EOLhyphen"/>ther in ſome: ſo all the Art is to take away all the corruption out of the maſs of Blood, and to make it pure and good and to heal all the inward parts, and then the work is done: I do it in the hardeſt times of Winter, or Summer, the <hi>Catarrh</hi> goeth ſpeedily off, and all pains ſoon after that; then comes a good appetite, with all man<g ref="char:EOLhyphen"/>ner of comfort as formerly, but you muſt not give off taking things, till you find ſome other ſymptoms gone as well as the former, which is foulneſs and greaſineſs of the Urine, and when it coms to be of a clear wholſome colour, you are well.</p>
+               <p>But beware leſt you come too late; therefore to prevent this Mortal Diſtemper, ſo ſoon as you find a tickling in your Throat, make haſte and come to me, and I, under God, will help you for ſmall charge; but if you ſtay till the foreſaid ſymp<g ref="char:EOLhyphen"/>toms appear, you cannot without much difficulty be cured.</p>
+               <p>I help all ſorts of Ruptures, and Burſtenneſs in Men, Women and Children, and keep a Truſs-maker on purpoſe to make Truſſes fit for them, otherwiſe they can<g ref="char:EOLhyphen"/>not be cured: I do not hinder them of doing any buſineſs, but give preſent eaſe, and they go more comfortably about their buſineſs: But do not believe them that ſay they can cure without a Truſs, for they will but cheat you of your Money; I have not ſeen any Truſſes ſo good as thoſe which I have made; I do not get one peny by them.</p>
+               <p>I cure the Ague for five ſhillings, and every one that I miſs doing the Cure, I will give them ten ſhillings.</p>
+               <p>I do more Cure for a Crown or an Angel, than you can have done at many places for forty ſhillings.</p>
+            </div>
+            <div type="part">
+               <head>How Men may preſerve Health.</head>
+               <p>ANd firſt of <hi>Tobacco,</hi> it is hot and dry, and therefore it may be good for groſs Phlegmatick Bodies, which are cold and moiſt, ſo they take it moderatly.</p>
+               <p>But for a thin Cholerick Man which is by nature hot and dry, <hi>Tobacco</hi> is the Plague of the whole Body, and the beſt fruit it bringeth forth is a kind of mad<g ref="char:EOLhyphen"/>neſs.</p>
+               <p>Alſo keep good hours going to bed; forbear hard drinking, which kills as ſure as a Gun, though not ſo quick: and when you are at Dinner or Supper rather riſe with an appetite than loathing of Meat: Walk moderately and what-ever you do vex not your mind with care and troubles of the World, for it will breed many Diſeaſes, and eat out the Body like a Canker-Worm: And knowing, that though we are alive and well to day, we may be dead to morrow; therefore I think he doth well that conſiders his latter end.</p>
+               <p>The true Receit (as it was given to me) of the <hi>Everlaſting Cordial Drink, Wa<g ref="char:EOLhyphen"/>ter,</hi> or <hi>Spirits,</hi> which the Cheats have cryed up to cure all Diſeaſes:</p>
+               <p>Take Spirit of Wine one Gallon, <hi>Senna</hi> two pound, bruiſe it a little, and put it into the Spirit of Wine for the ſpace of forty eight hours; then ſtrain out the <hi>Sen<g ref="char:EOLhyphen"/>na,</hi>
+                  <gap reason="missing" extent="1 page">
+                     <desc>〈1 page missing〉</desc>
+                  </gap>
+               </p>
+               <pb facs="tcp:33193:13"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
